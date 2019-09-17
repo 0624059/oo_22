@@ -37,5 +37,5 @@
 
 ![shark](123.jpg "shark")
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/UF53cptEE5k/0.jpg)](https://www.youtube.com/watch?v=UF53cptEE5k "SHINee")
 
