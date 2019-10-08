@@ -70,17 +70,17 @@
 ```
 ### 初步類別圖:
 > 新增
-![初步類別圖](1.JPG "MAGIC SHOP")
+![初步類別圖](1.jpg "MAGIC SHOP")
 > 刪除
-![初步類別圖](2.JPG "MAGIC SHOP")
+![初步類別圖](2.jpg "MAGIC SHOP")
 > 修改
-![初步類別圖](3.JPG "MAGIC SHOP")
+![初步類別圖](3.jpg "MAGIC SHOP")
 > 分類
-![初步類別圖](4.JPG "MAGIC SHOP")
+![初步類別圖](4.jpg "MAGIC SHOP")
 > 查詢
-![初步類別圖](5.JPG "MAGIC SHOP")
+![初步類別圖](5.jpg "MAGIC SHOP")
 > 提醒
-![初步類別圖](6.JPG "MAGIC SHOP")
+![初步類別圖](6.jpg "MAGIC SHOP")
 
 ### 系統循序圖:
 ![系統循序圖](系統循序圖.jpg "MAGIC SHOP")
