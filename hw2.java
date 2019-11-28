@@ -1,5 +1,5 @@
 interface Shape{
-    abstract void getArea(double n);
+    abstract double getArea();
 }
 
 class Rectangle implements Shape{
@@ -31,8 +31,8 @@ class Triangle implements Shape{
 public class hw2{
     public static void main(String arg[]){
         Rectangle rec=new Rectangle(10,20);
-        System.out.println(rec.toString(rec.getArea));
+        System.out.println(rec.toString(rec.getArea()));
         Triangle tri=new Triangle(15,25);
-        System.out.println(rec.toString(rec.getArea));
+        System.out.println(tri.toString(tri.getArea()));
     }
 }
