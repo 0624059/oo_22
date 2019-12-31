@@ -1,2 +1,3 @@
-student id
+0624059
 group name: 智慧物品管家
+members:陳品璇、吳蕙如、陳怡璇、許善博
