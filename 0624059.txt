@@ -1,0 +1,2 @@
+student id
+group name: 智慧物品管家
